@@ -39,7 +39,7 @@ A billiards game auxiliary tool to help you become a billiards master :)
 因为只用鼠标很难完全吻合到目标球上，所以要借助键盘热键’Q’W’E’2’，热键使用方法参考“五、启动热键”。
 下图是完全瞄准的情况。
 
- <img src="./img/main3.jpg?raw=true" width="200" height="100">
+ <img src="./img/main3.jpg?raw=true" width="400" height="300">
 
 图4
 
@@ -67,7 +67,7 @@ A billiards game auxiliary tool to help you become a billiards master :)
 六、	参数设定方法
 点击主画面的”设置>>”按钮，出现下图。
 
- <img src="./img/main6.jpg?raw=true" width="300" height="300">
+ <img src="./img/main6.jpg?raw=true" width="400" height="300">
 
 图7
 
@@ -88,7 +88,7 @@ Kele8-16球的台球直径为19，袋口半径为20，桌布宽度大概为580�
 
 实战过程中的主画面的状态应该是：
 
- <img src="./img/main7.jpg?raw=true" width="300" height="100">
+ <img src="./img/main8.jpg?raw=true" width="300" height="100">
 
 图8
 
