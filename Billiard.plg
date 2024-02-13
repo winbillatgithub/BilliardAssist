@@ -1,0 +1,69 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Billiard - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/Billiard.res" /d "NDEBUG" /d "_AFXDLL" "C:\Temp\Billiard\Billiard\Billiard.rc"" 
+Creating temporary file "C:\Temp\WinTemp\RSP72E.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/Billiard.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Temp\Billiard\Billiard\3DMark05Dlg.cpp"
+"C:\Temp\Billiard\Billiard\3DMark05ScoreDlg.cpp"
+"C:\Temp\Billiard\Billiard\MySkin.cpp"
+"C:\Temp\Billiard\Billiard\PropPage1.cpp"
+"C:\Temp\Billiard\Billiard\PropSheet.cpp"
+"C:\Temp\Billiard\Billiard\Billiard.cpp"
+"C:\Temp\Billiard\Billiard\BilliardDlg.cpp"
+"C:\Temp\Billiard\Billiard\SkinButton.cpp"
+"C:\Temp\Billiard\Billiard\SkinDialog.cpp"
+]
+Creating command line "cl.exe @C:\Temp\WinTemp\RSP72E.tmp" 
+Creating temporary file "C:\Temp\WinTemp\RSP72F.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/Billiard.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Temp\Billiard\Billiard\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Temp\WinTemp\RSP72F.tmp" 
+Creating temporary file "C:\Temp\WinTemp\RSP730.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/Billiard.pdb" /machine:I386 /out:"Release/Billiard.exe" 
+.\Release\3DMark05Dlg.obj
+.\Release\3DMark05ScoreDlg.obj
+.\Release\MySkin.obj
+.\Release\PropPage1.obj
+.\Release\PropSheet.obj
+.\Release\Billiard.obj
+.\Release\BilliardDlg.obj
+.\Release\SkinButton.obj
+.\Release\SkinDialog.obj
+.\Release\StdAfx.obj
+.\Release\Billiard.res
+]
+Creating command line "link.exe @C:\Temp\WinTemp\RSP730.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+3DMark05Dlg.cpp
+3DMark05ScoreDlg.cpp
+MySkin.cpp
+PropPage1.cpp
+PropSheet.cpp
+Billiard.cpp
+BilliardDlg.cpp
+SkinButton.cpp
+SkinDialog.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+Billiard.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
